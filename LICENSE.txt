@@ -1,0 +1,7 @@
+/*
+ * Copyright (C) 2020, Michael Taylor
+ *
+ * The code is distributed under terms and conditions of the MIT license: 
+ * https://opensource.org/licenses/MIT.
+ * 
+*/
