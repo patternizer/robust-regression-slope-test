@@ -25,7 +25,7 @@ Run with:
 
 ## License
 
-The code is distributed under terms and conditions of the  [MIT license](https://opensource.org/licenses/MIT).
+The code is distributed under terms and conditions of the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Contact information
 
